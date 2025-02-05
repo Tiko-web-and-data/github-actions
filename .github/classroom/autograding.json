@@ -1,7 +1,7 @@
 {
     "tests": [
       {
-        "name": "Check index.html",
+        "name": "Check Github Actions",
         "setup": "sudo -H pip3 install pytest",
         "run": "pytest",
         "input": "",
